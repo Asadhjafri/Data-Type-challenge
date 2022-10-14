@@ -9,3 +9,10 @@ two_digit_number = input("Type a two digit number: ")
 
 ####################################
 #Write your code below this line 👇
+first_digit = two_digit_number[0]
+second_digit = two_digit_number[1]
+
+new_first = int(first_digit)
+new_second = int(second_digit)
+
+print(new_first + new_second)
