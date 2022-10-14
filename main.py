@@ -16,3 +16,7 @@ new_first = int(first_digit)
 new_second = int(second_digit)
 
 print(new_first + new_second)
+
+#alternative solution
+#result = int(first_digit) + int(second_digit)
+#print(result)
